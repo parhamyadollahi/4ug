@@ -65,4 +65,4 @@ jobs:
           app-name: 'myappfdsfxwsrfwe'
           slot-name: 'Production'
           package: .
-          publish-profile: ${{ secrets.AZUREAPPSERVICE_PUBLISHPROFILE_D5234A258D524A5AAE8FBC06CABC9149 }}
+          publish-profile: ${{ secrets.AZUREAPPSERVICE_PUBLISHPROFILE_6BE865DC27CF46269CFC10EDACE62570 }}
